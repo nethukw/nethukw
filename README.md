@@ -2,7 +2,7 @@
   <img src="./assets/COOL PIXEL GIF_.gif" width="900"/>
 </p>
 <h1 align="center">Hi 👋, I'm Nethmi Wijekoon</h1>
-<h3 align="center">A creative and passionate Software Engineering student from Sri Lanka | Web Dev & C++ Enthusiastper from India</h3>
+<h3 align="center">A creative and passionate Software Engineering student from Sri Lanka | Web Dev & C++ Enthusiastper from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethukw&label=Profile%20views&color=0e75b6&style=flat" alt="nethukw" /> </p>
 
