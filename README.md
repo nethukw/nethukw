@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Animated Typing Greeting -->
+  <!-- Fixed Animated Typing Greeting -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Nethmi+Wijekoon;Software+Engineering+Undergrad;Full-Stack+%26+Mobile+Developer;AI+%26+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Nethmi+Wijekoon;Software+Engineering+Undergrad;Full-Stack+%26+Mobile+Developer;AI+%26+Prompt+Engineering" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,10 +29,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" />
-</div>
 
 ### 🚀 About Me
 
