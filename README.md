@@ -1,18 +1,38 @@
-<h1 align="center">Hi 👋, I'm Nethmi Wijekoon</h1>
-<h3 align="center">Software Engineering Undergraduate | Full-Stack & Mobile Developer</h3>
+<div align="center">
+  <!-- Animated Typing Greeting -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Nethmi+Wijekoon;Software+Engineering+Undergrad;Full-Stack+%26+Mobile+Developer;AI+%26+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Animated Developer Emojis -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star Struck" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Woman Technologist" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face" width="45" />
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nethmi-wijekoon-b6460129a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nethukzz@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <b>A detail-oriented Software Engineering undergrad at LNBTI (CGPA: 3.67).</b><br>
+  I am passionate about transforming ideas into functional, scalable, and visually stunning digital solutions. I specialize in full-stack web development and mobile applications, with a keen interest in AI tools and prompt engineering.
 </p>
 
-<br>
+<div align="center">
+  <a href="https://linkedin.com/in/nethmi-wijekoon-b6460129a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nethukzz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<p align="center">
-  A detail-oriented Software Engineering undergrad at LNBTI (CGPA: 3.67). I am passionate about transforming ideas into functional, scalable, and visually stunning digital solutions. I specialize in full-stack web development and mobile applications, with a keen interest in AI tools and prompt engineering.
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" />
+</div>
 
 ### 🚀 About Me
 
@@ -27,24 +47,11 @@
 
 ### 💻 Tech Stack & Tools
 
-**Frontend & Mobile:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools, DevOps & Others:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,laravel,php,mysql,postgres,kotlin,git,docker,figma,linux&perline=6" alt="Tech Stack" />
+  </a>
+</div>
 
 ---
 
@@ -61,9 +68,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nethukw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a051e" alt="Nethmi's GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nethukw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a051e" alt="Top Languages" />
-</p>
+</div>
+<br/>
+<div align="center">
+  <!-- Dynamic Animated Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethukw&theme=tokyonight&hide_border=true&background=0a051e" alt="Nethmi's GitHub Streak" />
+</div>
